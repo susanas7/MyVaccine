@@ -12,7 +12,7 @@ using MyVaccine.WebApi.Models;
 namespace MyVaccine.WebApi.Migrations
 {
     [DbContext(typeof(MyVaccineAppDbContext))]
-    [Migration("20231108033421_InitialMigration")]
+    [Migration("20240601033421_InitialMigration.cs")]
     partial class InitialMigration
     {
         /// <inheritdoc />

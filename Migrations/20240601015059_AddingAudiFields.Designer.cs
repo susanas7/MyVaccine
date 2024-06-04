@@ -12,7 +12,7 @@ using MyVaccine.WebApi.Models;
 namespace MyVaccine.WebApi.Migrations
 {
     [DbContext(typeof(MyVaccineAppDbContext))]
-    [Migration("20231112015059_AddingAudiFields")]
+    [Migration("20240601015059_AddingAudiFields.cs")]
     partial class AddingAudiFields
     {
         /// <inheritdoc />
